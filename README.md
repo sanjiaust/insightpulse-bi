@@ -19,15 +19,6 @@ Multi-page BI dashboard with account-based data isolation, year-over-year growth
 
 InsightPulse BI turns a raw sales CSV into a full analytics workspace: an executive dashboard, year-over-year growth comparisons, product and customer rankings, and category/region performance breakdowns — each backed by SQL rather than client-side math. Every account's data is fully isolated, so multiple users can upload their own datasets independently on the same install.
 
-## Screenshots
-
-<div align="center">
-<img src="screenshots/executive-dashboard.png" width="800" alt="Executive Dashboard">
-<br><br>
-<img src="screenshots/rankings.png" width="800" alt="Rankings page">
-</div>
-
-> *(Add your own screenshots to a `screenshots/` folder in the repo — the images above are placeholders referencing that folder.)*
 
 ## Features
 
