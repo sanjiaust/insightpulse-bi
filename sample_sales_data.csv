@@ -1,0 +1,221 @@
+Order ID,Order Date,Customer Name,Product,Category,Region,Quantity,Unit Price,Total Amount
+ORD-1205,2025-01-01,Lena White,Notebook Set,Stationery,East,7,8.76,61.32
+ORD-1004,2025-01-04,Michael Davis,Office Chair,Furniture,West,3,145.72,437.16
+ORD-1039,2025-01-05,Chris Islam,Leather Belt,Apparel,Central,2,22.95,45.9
+ORD-1016,2025-01-06,Hana Davis,Planner 2026,Stationery,North,6,20.25,121.5
+ORD-1113,2025-01-08,Ahmed Chowdhury,Water Bottle,Sports,West,2,13.12,26.24
+ORD-1079,2025-01-14,Robert Taylor,Filing Cabinet,Furniture,Central,4,105.59,422.36
+ORD-1081,2025-01-22,Nadia Hossain,Denim Jacket,Apparel,Central,2,55.86,111.72
+ORD-1183,2025-01-22,John Miller,Leather Belt,Apparel,Central,8,22.84,182.72
+ORD-1055,2025-01-23,Daniel Akter,Wool Sweater,Apparel,North,4,39.88,159.52
+ORD-1028,2025-01-28,Maria Taylor,Planner 2026,Stationery,North,6,22.14,132.84
+ORD-1153,2025-02-01,Nadia Islam,Yoga Mat,Sports,West,8,26.07,208.56
+ORD-1015,2025-02-02,Zara Anderson,Running Shoes,Apparel,West,5,86.09,430.45
+ORD-1141,2025-02-02,Priya Karim,Fountain Pen,Stationery,West,2,15.97,31.94
+ORD-1025,2025-02-04,Ahmed Thomas,Mechanical Keyboard,Electronics,East,4,59.16,236.64
+ORD-1021,2025-02-05,David Uddin,Water Bottle,Sports,South,3,12.79,38.37
+ORD-1124,2025-02-05,Lena Garcia,Bookshelf,Furniture,East,7,96.94,678.58
+ORD-1030,2025-02-08,Sara Khan,Leather Belt,Apparel,Central,1,24.21,24.21
+ORD-1123,2025-02-11,Robert Miller,Cotton T-Shirt,Apparel,,8,15.94,127.52
+ORD-1154,2025-02-11,David Garcia,Cotton T-Shirt,Apparel,Central,3,14.78,44.34
+ORD-1167,2025-02-11,Nadia Uddin,Desk Lamp,Furniture,West,8,25.09,200.72
+ORD-1182,2025-02-16,Daniel Taylor,Notebook Set,Stationery,Central,8,9.22,73.76
+ORD-1044,2025-02-17,Omar Khan,Fountain Pen,Stationery,West,1,16.39,16.39
+ORD-1145,2025-02-20,Hana Hossain,Planner 2026,Stationery,East,1,21.04,21.04
+ORD-1156,2025-02-20,John Karim,Bluetooth Speaker,Electronics,Central,8,47.95,383.6
+ORD-1121,2025-02-21,Daniel Anderson,Leather Belt,Apparel,North,1,23.49,23.49
+ORD-1125,2025-02-21,Priya Smith,Leather Belt,Apparel,South,1,,22.32
+ORD-1191,2025-02-21,Daniel Khan,Dumbbell Set,Sports,Central,6,69.16,414.96
+ORD-1005,2025-02-22,Sara Hossain,USB-C Hub,Electronics,West,6,35.48,212.88
+ORD-1108,2025-02-23,Nadia Uddin,Office Chair,Furniture,East,5,154.38,771.9
+ORD-1140,2025-02-25,Sofia Smith,Planner 2026,Stationery,South,6,22.45,134.7
+ORD-1146,2025-03-04,John Alam,Leather Belt,Apparel,North,1,21.52,21.52
+ORD-1203,2025-03-04,Nadia Alam,Mechanical Keyboard,Electronics,South,8,57.48,459.84
+ORD-1094,2025-03-06,Sara Smith,Fountain Pen,Stationery,West,5,16.68,83.4
+ORD-1147,2025-03-06,Ahmed Akter,Cycling Helmet,Sports,South,4,43.1,172.4
+ORD-1149,2025-03-08,Fatima Islam,Water Bottle,Sports,East,1,12.56,12.56
+ORD-1040,2025-03-09,Lena Hossain,Denim Jacket,Apparel,North,5,53.37,266.85
+ORD-1042,2025-03-10,Sara Akter,Desk Lamp,Furniture,North,3,24.63,73.89
+ORD-1116,2025-03-11,Nadia Miller,USB-C Hub,Electronics,East,5,36.46,182.3
+ORD-1201,2025-03-13,Zara Smith,Yoga Mat,Sports,West,2,23.81,47.62
+ORD-1164,2025-03-15,Ahmed Brown,Cycling Helmet,Sports,West,1,40.4,40.4
+ORD-1202,2025-03-18,Daniel Karim,Water Bottle,Sports,Central,2,13.65,27.3
+ORD-1069,2025-03-20,Nadia Karim,Standing Desk,Furniture,North,6,305.14,1830.84
+ORD-1077,2025-03-20,Sofia Islam,Bookshelf,Furniture,South,4,90.93,363.72
+ORD-1114,2025-03-20,Daniel Davis,Yoga Mat,Sports,East,7,26.46,185.22
+ORD-1158,2025-03-20,Ahmed Garcia,Planner 2026,Stationery,West,2,20.2,40.4
+ORD-1178,2025-03-20,Fatima Uddin,Fountain Pen,Stationery,North,8,17.29,138.32
+ORD-1035,2025-03-22,Ahmed Ahmed,Mechanical Keyboard,Electronics,Central,2,61.63,123.26
+ORD-1100,2025-03-22,Kevin Alam,Wireless Mouse,Electronics,West,8,19.75,158.0
+ORD-1032,2025-03-26,Robert Davis,Running Shoes,Apparel,North,8,78.96,631.68
+ORD-1127,2025-03-29,Zara Taylor,Office Chair,Furniture,North,4,151.19,604.76
+ORD-1095,2025-04-05,Sofia Islam,Mechanical Keyboard,Electronics,East,2,60.12,120.24
+ORD-1027,2025-04-08,Nadia Hossain,Bluetooth Speaker,Electronics,North,7,45.15,316.05
+ORD-1029,2025-04-09,Kevin Brown,Standing Desk,Furniture,Central,7,291.18,2038.26
+ORD-1170,2025-04-15,,Filing Cabinet,Furniture,South,5,109.19,545.95
+ORD-1070,2025-04-16,Chris Smith,Wool Sweater,Apparel,West,7,40.47,283.29
+ORD-1099,2025-04-17,Omar Garcia,Fountain Pen,Stationery,South,3,16.19,48.57
+ORD-1161,2025-04-19,Lena Islam,Noise Cancelling Headphones,Electronics,West,6,137.78,826.68
+ORD-1060,2025-04-20,Fatima Garcia,Dumbbell Set,Sports,West,5,66.11,330.55
+ORD-1190,2025-04-20,John Chowdhury,Cotton T-Shirt,Apparel,West,3,14.54,43.62
+ORD-1176,2025-04-24,Ahmed Thomas,Cotton T-Shirt,Apparel,South,2,15.27,30.54
+ORD-1051,2025-04-25,Robert Miller,Wireless Mouse,Electronics,South,5,21.24,106.2
+ORD-1128,2025-04-29,Kevin Davis,Leather Belt,Apparel,East,1,24.0,24.0
+ORD-1008,2025-04-30,Omar Anderson,Bluetooth Speaker,Electronics,West,6,43.7,262.2
+ORD-1148,2025-04-30,Zara Smith,Cotton T-Shirt,Apparel,South,5,15.91,79.55
+ORD-1194,2025-04-30,Priya Uddin,Water Bottle,Sports,South,4,12.96,51.84
+ORD-1036,2025-05-01,Chris Chowdhury,Running Shoes,Apparel,North,1,82.43,82.43
+ORD-1068,2025-05-01,Michael Akter,Desk Lamp,Furniture,East,2,24.19,48.38
+ORD-1031,2025-05-02,Sofia Uddin,Office Chair,Furniture,West,4,158.3,633.2
+ORD-1150,2025-05-02,James Ahmed,Cycling Helmet,Sports,East,5,40.19,200.95
+ORD-1089,2025-05-05,Ayesha Uddin,Filing Cabinet,Furniture,Central,6,110.58,663.48
+ORD-1115,2025-05-05,David Taylor,Leather Belt,Apparel,Central,4,24.07,96.28
+ORD-1053,2025-05-14,Omar Khan,Office Chair,Furniture,Central,2,153.11,306.22
+ORD-1045,2025-05-15,Hana Karim,Office Chair,Furniture,West,1,143.72,143.72
+ORD-1038,2025-05-16,Priya Anderson,Running Shoes,Apparel,South,6,85.65,513.9
+ORD-1163,2025-05-17,Omar Rahman,Wireless Mouse,Electronics,South,6,19.9,119.4
+ORD-1106,2025-05-18,Fatima Uddin,Cycling Helmet,Sports,North,8,44.9,359.2
+ORD-1087,2025-05-22,Daniel Wilson,Water Bottle,Sports,North,2,12.75,25.5
+ORD-1052,2025-05-23,Robert Akter,Denim Jacket,Apparel,Central,6,58.95,353.7
+ORD-1162,2025-05-23,Nadia Akter,Cycling Helmet,Sports,South,1,43.23,43.23
+ORD-1144,2025-05-24,John Anderson,Mechanical Keyboard,Electronics,East,8,64.4,515.2
+ORD-1101,2025-05-25,Lena Davis,Leather Belt,Apparel,North,4,22.62,90.48
+ORD-1059,2025-05-27,Chris Alam,Standing Desk,Furniture,West,6,302.12,1812.72
+ORD-1133,2025-05-27,Ayesha Chowdhury,Bookshelf,Furniture,Central,4,92.75,371.0
+ORD-1212,2025-05-27,Michael Davis,Denim Jacket,Apparel,North,2,57.95,115.9
+ORD-1129,2025-05-28,Fatima Garcia,Planner 2026,Stationery,Central,8,22.53,180.24
+ORD-1132,2025-06-01,Omar Smith,Wireless Mouse,Electronics,West,1,21.36,21.36
+ORD-1071,2025-06-02,Hana Akter,Running Shoes,Apparel,West,4,81.07,324.28
+ORD-1117,2025-06-02,Sofia Brown,Cycling Helmet,Sports,Central,8,42.84,342.72
+ORD-1130,2025-06-03,Omar Anderson,Fountain Pen,Stationery,West,5,16.1,80.5
+ORD-1041,2025-06-04,James Akter,Notebook Set,Stationery,Central,5,9.63,48.15
+ORD-1093,2025-06-04,David Davis,Wireless Mouse,Electronics,Central,1,21.52,21.52
+ORD-1142,2025-06-05,Sara Chowdhury,Yoga Mat,Sports,North,3,25.01,75.03
+ORD-1020,2025-06-07,Lena White,Bookshelf,Furniture,North,2,86.49,172.98
+ORD-1211,2025-06-08,Hana Uddin,Dumbbell Set,Sports,West,5,62.06,310.3
+ORD-1054,2025-06-10,Daniel Islam,Wool Sweater,Apparel,Central,7,42.67,298.69
+ORD-1173,2025-06-10,Chris Taylor,Cycling Helmet,Sports,West,7,41.48,290.36
+ORD-1091,2025-06-11,Fatima Wilson,Bluetooth Speaker,Electronics,Central,4,47.07,188.28
+ORD-1174,2025-06-16,Kevin Hossain,Office Chair,Furniture,Central,2,150.01,300.02
+ORD-1057,2025-06-17,Hana Brown,Running Shoes,Apparel,East,4,80.36,321.44
+ORD-1189,2025-06-18,Ahmed Karim,Noise Cancelling Headphones,Electronics,Central,6,123.8,742.8
+ORD-1090,2025-06-19,Omar Rahman,Denim Jacket,Apparel,West,5,53.89,269.45
+ORD-1049,2025-06-20,Omar Ahmed,Wool Sweater,Apparel,,2,39.98,79.96
+ORD-1061,2025-06-21,Priya Chowdhury,USB-C Hub,Electronics,South,4,33.44,
+ORD-1043,2025-06-25,Daniel Uddin,Standing Desk,Furniture,East,5,319.24,1596.2
+ORD-1177,2025-06-28,Lena Islam,Denim Jacket,Apparel,South,3,54.07,162.21
+ORD-1076,2025-06-29,Maria Smith,Bookshelf,Furniture,,4,87.82,351.28
+ORD-1188,2025-06-29,David Alam,Filing Cabinet,Furniture,West,2,108.93,217.86
+ORD-1217,2025-06-30,Omar Khan,Notebook Set,Stationery,West,2,9.32,18.64
+ORD-1172,2025-07-01,Maria Karim,USB-C Hub,Electronics,West,1,34.84,34.84
+ORD-1126,2025-07-03,David Chowdhury,Denim Jacket,Apparel,West,7,56.29,394.03
+ORD-1007,2025-07-05,Ahmed Khan,Cycling Helmet,Sports,South,4,44.12,176.48
+ORD-1047,2025-07-06,John Chowdhury,Mechanical Keyboard,Electronics,East,2,59.75,119.5
+ORD-1135,2025-07-06,Priya Miller,Noise Cancelling Headphones,Electronics,North,7,126.46,885.22
+ORD-1193,2025-07-06,Kevin Alam,Planner 2026,Stationery,South,5,22.0,110.0
+ORD-1078,2025-07-08,Zara Islam,Office Chair,Furniture,Central,3,160.24,480.72
+ORD-1220,2025-07-09,Ahmed White,Denim Jacket,Apparel,West,3,56.03,168.09
+ORD-1159,2025-07-10,Maria White,Noise Cancelling Headphones,Electronics,Central,6,134.81,808.86
+ORD-1199,2025-07-11,Ahmed Hossain,Bookshelf,Furniture,West,4,85.82,343.28
+ORD-1165,2025-07-12,Michael Ahmed,Wool Sweater,Apparel,West,6,39.61,237.66
+ORD-1075,2025-07-14,Omar Garcia,Desk Lamp,Furniture,West,8,23.8,190.4
+ORD-1119,2025-07-16,Maria Miller,Bookshelf,Furniture,West,8,93.74,749.92
+ORD-1120,2025-07-17,Sofia Khan,Planner 2026,Stationery,South,3,21.32,63.96
+ORD-1187,2025-07-17,Zara Brown,Filing Cabinet,Furniture,East,6,105.67,634.02
+ORD-1063,2025-07-24,James Islam,Bookshelf,Furniture,South,7,88.05,616.35
+ORD-1213,2025-07-24,Michael Ahmed,Leather Belt,Apparel,West,8,23.4,187.2
+ORD-1011,2025-07-25,John White,Desk Lamp,Furniture,North,6,24.43,146.58
+ORD-1110,2025-07-26,Hana Anderson,Dumbbell Set,Sports,North,7,62.21,435.47
+ORD-1048,2025-07-28,Lena Ahmed,Notebook Set,Stationery,,3,9.57,28.71
+ORD-1186,2025-07-29,Maria Miller,Cotton T-Shirt,Apparel,Central,2,14.88,29.76
+ORD-1082,2025-08-04,Nadia Hossain,Yoga Mat,Sports,North,8,26.05,208.4
+ORD-1022,2025-08-05,John Rahman,Standing Desk,Furniture,Central,7,322.73,2259.11
+ORD-1171,2025-08-09,Robert Akter,Office Chair,Furniture,South,4,151.24,604.96
+ORD-1175,2025-08-12,Daniel Garcia,Cycling Helmet,Sports,West,7,44.65,312.55
+ORD-1198,2025-08-12,Kevin Hossain,USB-C Hub,Electronics,South,1,34.64,34.64
+ORD-1023,2025-08-13,Sara Chowdhury,Dumbbell Set,Sports,,4,62.29,249.16
+ORD-1112,2025-08-13,James Alam,Yoga Mat,Sports,North,4,26.06,104.24
+ORD-1185,2025-08-13,Zara Ahmed,Dumbbell Set,Sports,Central,6,64.9,389.4
+ORD-1195,2025-08-14,Robert Thomas,Leather Belt,Apparel,East,7,24.2,169.4
+ORD-1098,2025-08-15,Nadia Rahman,Filing Cabinet,Furniture,Central,1,113.22,113.22
+ORD-1180,2025-08-15,Omar White,Fountain Pen,Stationery,East,1,16.43,16.43
+ORD-1179,2025-08-18,Zara Miller,Planner 2026,Stationery,Central,6,20.36,122.16
+ORD-1184,2025-08-19,Ahmed Thomas,Bluetooth Speaker,Electronics,East,3,42.98,128.94
+ORD-1017,2025-08-21,Daniel Ahmed,Wireless Mouse,Electronics,East,2,21.25,42.5
+ORD-1157,2025-08-21,Sara Miller,Running Shoes,Apparel,West,7,79.24,554.68
+ORD-1210,2025-08-23,John Khan,Mechanical Keyboard,Electronics,East,4,63.9,255.6
+ORD-1006,2025-08-24,Robert Garcia,Water Bottle,Sports,North,5,13.74,68.7
+ORD-1074,2025-08-25,Omar Taylor,Office Chair,Furniture,North,6,145.65,873.9
+ORD-1181,2025-08-25,Maria Hossain,Leather Belt,Apparel,North,5,21.6,108.0
+ORD-1085,2025-08-26,Robert Miller,Cycling Helmet,Sports,Central,1,42.6,42.6
+ORD-1050,2025-08-29,Kevin Hossain,Bookshelf,Furniture,South,5,95.09,475.45
+ORD-1062,2025-09-01,Kevin Karim,Notebook Set,Stationery,North,4,9.38,37.52
+ORD-1137,2025-09-04,Sara Anderson,Filing Cabinet,Furniture,East,2,106.51,213.02
+ORD-1131,2025-09-05,Robert White,Bluetooth Speaker,Electronics,South,6,46.11,276.66
+ORD-1072,2025-09-06,Michael Taylor,Wireless Mouse,Electronics,West,3,21.17,63.51
+ORD-1086,2025-09-07,Omar Miller,Standing Desk,Furniture,East,5,318.27,1591.35
+ORD-1014,2025-09-10,Sara Brown,USB-C Hub,Electronics,North,3,36.33,108.99
+ORD-1204,2025-09-13,James Thomas,Notebook Set,Stationery,Central,4,9.38,37.52
+ORD-1104,2025-09-14,Kevin Garcia,Water Bottle,Sports,West,1,13.84,13.84
+ORD-1152,2025-09-15,Maria Thomas,Bookshelf,Furniture,Central,5,90.85,454.25
+ORD-1066,2025-09-16,Kevin Ahmed,Wool Sweater,Apparel,Central,8,40.33,322.64
+ORD-1168,2025-09-20,Nadia Islam,Bluetooth Speaker,Electronics,East,5,46.72,233.6
+ORD-1218,2025-09-20,James Brown,Planner 2026,Stationery,South,8,20.05,160.4
+ORD-1197,2025-09-22,Ahmed Ahmed,Bluetooth Speaker,Electronics,East,5,45.38,226.9
+ORD-1064,2025-09-23,Hana Chowdhury,Leather Belt,Apparel,North,2,22.71,45.42
+ORD-1214,2025-09-23,Nadia Garcia,Desk Lamp,Furniture,North,7,25.7,179.9
+ORD-1083,2025-09-25,Zara Akter,Fountain Pen,Stationery,East,8,16.67,133.36
+ORD-1206,2025-09-26,Daniel Akter,Denim Jacket,Apparel,North,1,55.03,55.03
+ORD-1151,2025-09-27,Sofia Anderson,Bluetooth Speaker,Electronics,North,6,45.75,274.5
+ORD-1169,2025-09-27,Maria Chowdhury,Planner 2026,Stationery,East,7,,158.48
+ORD-1019,2025-09-29,Michael Uddin,Wireless Mouse,Electronics,Central,1,19.28,19.28
+ORD-1139,2025-10-02,Ayesha Davis,Bluetooth Speaker,Electronics,West,7,47.56,332.92
+ORD-1026,2025-10-04,Chris Uddin,Noise Cancelling Headphones,Electronics,Central,4,136.75,547.0
+ORD-1136,2025-10-04,Daniel Davis,Denim Jacket,Apparel,Central,3,54.08,162.24
+ORD-1143,2025-10-04,David Karim,Wool Sweater,Apparel,Central,2,42.32,84.64
+ORD-1034,2025-10-05,Maria Khan,Mechanical Keyboard,Electronics,East,8,60.91,487.28
+ORD-1002,2025-10-07,Nadia Khan,USB-C Hub,Electronics,Central,1,33.2,33.2
+ORD-1215,2025-10-07,Sara Garcia,Filing Cabinet,Furniture,East,6,113.95,683.7
+ORD-1155,2025-10-08,Zara Thomas,Cotton T-Shirt,Apparel,West,5,15.12,75.6
+ORD-1109,2025-10-09,Ahmed Miller,Mechanical Keyboard,Electronics,West,5,59.51,297.55
+ORD-1118,2025-10-10,Kevin Miller,Water Bottle,Sports,West,4,14.0,56.0
+ORD-1024,2025-10-11,Lena Smith,Bookshelf,Furniture,Central,2,,187.54
+ORD-1033,2025-10-12,David Wilson,Planner 2026,Stationery,West,5,,102.7
+ORD-1088,2025-10-12,Sofia Anderson,Bookshelf,Furniture,West,1,86.58,86.58
+ORD-1097,2025-10-13,Zara Alam,Wool Sweater,Apparel,Central,4,42.02,168.08
+ORD-1166,2025-10-18,Maria Brown,Notebook Set,Stationery,North,3,9.42,
+ORD-1103,2025-10-19,Sara Anderson,Filing Cabinet,Furniture,West,5,114.51,572.55
+ORD-1037,2025-10-26,Michael Davis,Cycling Helmet,Sports,Central,4,43.56,174.24
+ORD-1013,2025-10-27,Robert Hossain,Wool Sweater,Apparel,Central,4,43.18,172.72
+ORD-1107,2025-10-27,Ahmed Uddin,Wool Sweater,Apparel,West,6,40.11,240.66
+ORD-1092,2025-10-29,Priya Islam,Dumbbell Set,Sports,Central,4,64.25,257.0
+ORD-1084,2025-10-31,Lena Garcia,Desk Lamp,Furniture,East,5,26.6,133.0
+ORD-1192,2025-11-02,Fatima Ahmed,Running Shoes,Apparel,South,3,83.49,
+ORD-1003,2025-11-05,John Akter,Wireless Mouse,Electronics,Central,7,19.56,136.92
+ORD-1216,2025-11-05,Kevin Hossain,Wool Sweater,Apparel,South,8,38.21,305.68
+ORD-1105,2025-11-06,Ahmed Chowdhury,Desk Lamp,Furniture,North,1,26.99,26.99
+ORD-1196,2025-11-06,Maria Uddin,Noise Cancelling Headphones,Electronics,East,6,132.86,797.16
+ORD-1073,2025-11-15,Robert White,Water Bottle,Sports,North,1,12.48,12.48
+ORD-1111,2025-11-15,Maria Wilson,Yoga Mat,Sports,West,5,25.53,127.65
+ORD-1080,2025-11-18,Priya Alam,Bookshelf,Furniture,North,2,94.81,189.62
+ORD-1096,2025-11-19,David Brown,Planner 2026,Stationery,North,5,20.18,100.9
+ORD-1207,2025-11-22,Omar Smith,Running Shoes,Apparel,East,6,84.19,505.14
+ORD-1067,2025-11-23,Sofia Chowdhury,Desk Lamp,Furniture,Central,5,25.17,125.85
+ORD-1001,2025-11-24,Omar Chowdhury,Bluetooth Speaker,Electronics,North,4,43.57,174.28
+ORD-1010,2025-11-24,Michael Khan,Water Bottle,Sports,South,4,13.73,54.92
+ORD-1018,2025-11-24,John Brown,Dumbbell Set,Sports,Central,6,68.19,409.14
+ORD-1012,2025-11-26,Omar Brown,Leather Belt,Apparel,South,4,23.55,94.2
+ORD-1209,2025-11-26,Sofia Ahmed,Office Chair,Furniture,West,3,142.77,428.31
+ORD-1219,2025-11-27,Robert White,Denim Jacket,Apparel,East,1,56.57,56.57
+ORD-1102,2025-11-28,David Garcia,Noise Cancelling Headphones,Electronics,East,1,126.29,126.29
+ORD-1200,2025-11-29,David Khan,Cotton T-Shirt,Apparel,South,5,16.03,80.15
+ORD-1122,2025-12-02,Sofia Davis,Noise Cancelling Headphones,Electronics,North,6,134.02,804.12
+ORD-1208,2025-12-03,Chris Miller,Fountain Pen,Stationery,North,3,15.77,47.31
+ORD-1134,2025-12-04,Sara Khan,Planner 2026,Stationery,,5,22.1,110.5
+ORD-1056,2025-12-07,Michael Islam,Cotton T-Shirt,Apparel,Central,5,15.23,76.15
+ORD-1160,2025-12-07,Priya Alam,Wool Sweater,Apparel,North,5,39.82,199.1
+ORD-1065,2025-12-08,Zara Miller,Dumbbell Set,Sports,Central,8,66.93,535.44
+ORD-1009,2025-12-10,Zara Ahmed,Desk Lamp,Furniture,North,4,24.27,97.08
+ORD-1058,2025-12-13,,Office Chair,Furniture,Central,7,152.16,1065.12
+ORD-1138,2025-12-13,,Planner 2026,Stationery,West,2,22.11,44.22
+ORD-1046,2025-12-20,Maria Hossain,Noise Cancelling Headphones,Electronics,Central,3,130.75,
